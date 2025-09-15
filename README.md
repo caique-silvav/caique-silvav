@@ -1,6 +1,6 @@
 Olá! Sou Estudante --------- Iniciei meus estudos na programação em 2024, apenas por curiosidade. E hoje em dia busco cada vez mais conhecimentos, busco aprender cada dia mais e aqui pretendo compartilhar meus projetos, do mais simples ao mais complexo.
 * 🌍 Moro em São Paulo *
-*  🖥️ Veja meu portfólio em [https://caique-silvav.github.io/Portifolio/](http:// https://caique-silvav.github.io/Portifolio/)
+*  🖥️ Veja meu portfólio em https://caique-silvav.github.io/Portifolio/
 * 🧠 Atualmente estou aprendendo Python e entre outras Linguagens
 
 <p align="left">
